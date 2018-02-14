@@ -9,7 +9,7 @@ metadata:
     iconClass: icon-mysql-database
     tags: redis-cluster
   name: redis-cluster-ephemeral
-  namespace: openshift
+  namespace: redis-cluster
 objects:
 - apiVersion: v1
   kind: ServiceAccount
